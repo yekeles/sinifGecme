@@ -30,8 +30,7 @@ public class Main {
             if ((ortalama <= 55)) {
                 System.out.println("Ders Ortalama : " + ortalama + " Malesef Sınıf Tekrarı Yapacaksınız ...");
             } else {
-                System.out.println("Ders Ortalama : " + ortalama);
-                System.out.println("Tebrikler Bir Üst Sınıfa Geçtiniz...");
+                System.out.println("Ders Ortalama : " + ortalama + " Tebrikler Bir Üst Sınıfa Geçtiniz...");
             }
         } else {
             System.out.println("Ders Notlarınızı Kontrol Ediniz ...");
